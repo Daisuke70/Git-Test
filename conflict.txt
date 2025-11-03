@@ -1,1 +1,1 @@
-This line is written by feature A branch.
+This line is written by feature A and feature B branch.
